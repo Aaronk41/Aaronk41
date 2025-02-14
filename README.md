@@ -72,4 +72,4 @@ Let’s connect! Feel free to reach out to me via:
 
 I’m an **anime/manga fan** and enjoy exploring new cultures and traveling whenever I can! 🌍
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-![Pixel Anime Character](https://i.imgur.com/3QZQZQZ.png)
+![Pixel Anime Character]([https://i.imgur.com/3QZQZQZ.png](https://imgur.com/gallery/luffy-png-hVcNZzG))
