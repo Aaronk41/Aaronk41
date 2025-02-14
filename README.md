@@ -63,14 +63,6 @@ Check out my GitHub stats to see what I’ve been up to:
 
 I have a deep appreciation for Japanese culture, having studied abroad in Japan for **6 months**. From the bustling streets of Tokyo to the serene temples of Kyoto, my time in Japan was an unforgettable experience. I immersed myself in the language, traditions, and daily life, which left a lasting impact on me.
 
-Here’s a photo from my time in Japan:
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x400.png?text=Your+Photo+Here" alt="Japan Photo" width="500"/>
-</div>
-
-*Replace the above image with a photo from your time in Japan. You can upload the image to your repository and link it here.*
-
 ---
 
 ## 📫 How to Reach Me
@@ -91,13 +83,3 @@ Let’s connect! Feel free to reach out to me via:
 ## ⚡ Fun Fact
 
 I’m an **anime/manga fan** and enjoy exploring new cultures and traveling whenever I can! 🌍
-
----
-
-## 🎧 Currently Listening To
-
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
-
----
-
-Made with ❤️ by **Aaron George**
