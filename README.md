@@ -49,7 +49,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🇯🇵 My Connection to Japanese Culture
 
-I have a deep appreciation for Japanese culture, having studied abroad in Japan for **6 months**. From the bustling streets of Tokyo to the serene temples of Kyoto, my time in Japan was an unforgettable experience. I immersed myself in the language, traditions, and daily life, which left a lasting impact on me.
+I have a deep appreciation for Japanese culture, having studied abroad in Japan for **6 months**. From the bustling streets of Nagoya to the serene temples of Kyoto, my time in Japan was an unforgettable experience. I immersed myself in the language, traditions, and daily life, which left a lasting impact on me.
 
 ---
 
