@@ -47,18 +47,6 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 📊 GitHub Stats
-
-Check out my GitHub stats to see what I’ve been up to:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
-
 ## 🇯🇵 My Connection to Japanese Culture
 
 I have a deep appreciation for Japanese culture, having studied abroad in Japan for **6 months**. From the bustling streets of Tokyo to the serene temples of Kyoto, my time in Japan was an unforgettable experience. I immersed myself in the language, traditions, and daily life, which left a lasting impact on me.
