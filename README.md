@@ -71,4 +71,4 @@ Let’s connect! Feel free to reach out to me via:
 ## ⚡ Fun Fact
 
 I’m an **anime/manga fan** and enjoy exploring new cultures and traveling whenever I can! 🌍
-<div align="center"> <img src="https://i.imgur.com/3QZQZ9x.png" alt="Anime Image" width="300"/> </div>
+
